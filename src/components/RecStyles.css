@@ -1,0 +1,54 @@
+.T{
+    position: absolute;
+    width: 25%;
+    top: 100px;
+    right:10px;
+    z-index: 1;
+    
+}
+.card{
+    width: 100% ;
+    margin-left: 20px;
+    background: #f5f4f2;
+    background-color: white;
+    
+}
+.users{
+    background-color:white;
+    
+    padding: 1em;
+    width: 300px;
+    
+}
+.p{
+    display: flex;
+    align-items: center;
+}
+
+.card h3{
+    font-size: 1em;
+}
+.C{
+    margin-left: 20px;
+    padding: 1em;
+    width: 300px;
+    right:10px;
+}
+/* .C p{
+    font-weight: 800;
+    color: silver;
+} */
+/* .C ul{
+    list-style-type: none;
+  }
+  .C ul li {
+    margin-left: 20PX;
+    color: rgb(45, 12, 12);
+  }
+.C ul li:hover{
+    background: #e8f5fe;
+    color: rgb(14, 14, 14);} */
+    .C a:hover{
+        background: #f5f4f2;
+        color: black;
+    }

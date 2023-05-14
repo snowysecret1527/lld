@@ -8,7 +8,7 @@ nav{
     box-shadow: 0 5px 15px rgba(0,0,0,0.06) ;
 }
 .navbar2{
-    background-color: royalblue;
+    background-color: rgb(0, 147,217);
     border-radius: .50em;
     padding: .5em 1em;
     box-shadow: 0px 0px 10px -4px;
@@ -36,11 +36,11 @@ nav{
 
 }
 #navbar1 li a:hover,#navbar1 li a.active{
-    color: black;
+    color: rgb(0, 147,217);
 }
 #navbar1 li a:hover::after,#navbar1 li a.active::after{
     content: "";
-    width: 30px;
+    width: 30%;
     height: 2px;
     background: black;
     position: absolute;
@@ -65,7 +65,7 @@ align-items: center;
         position: fixed;
         top:90px;
         right: -300px;
-        width: 0px;
+        width: 300px;
         height: 100vh;
         box-shadow: 0 40px 60px rgba(0,0,0,0.1); 
         padding: 40px 0 0 10px;
