@@ -1,23 +1,25 @@
-nav{
+/* nav{
     display: flex;
     width: 100vw;
     /* background-color: red ; */
-    align-items: center;
+    /* align-items: center;
     justify-content: space-between;
     padding: 20px 80px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.06) ;
-}
-.navbar2{
+
+} */ */
+.login-btn{
     background-color: rgb(0, 147,217);
     border-radius: .50em;
     padding: .5em 1em;
     box-shadow: 0px 0px 10px -4px;
     
+    
 }
-.navbar2 a{
+.login-btn a{
     color: white;
 }
-#navbar1{
+/* #navbar1{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -86,3 +88,6 @@ align-items: center;
     }
     
 }
+/* .img{
+    filter: grayscale(100%);
+} */ 

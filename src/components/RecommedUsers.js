@@ -43,7 +43,7 @@ const RecommedUsers = () => {
             
               <p><strong>LIVELOUD</strong> Discord</p>
               
-              <a><BrightnessLowIcon/>Powered by SAAARP Labs Metaverse</a>
+              <a><BrightnessLowIcon/>Powered by SAAARP Labs </a>
                 
               
             </div>

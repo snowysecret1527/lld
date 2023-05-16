@@ -28,10 +28,11 @@ const Posts = () => {
     <div className='reaction'>
 <span><ThumbUpAltRoundedIcon className='re'/>20</span>
 <span><ThumbDownRoundedIcon className='re'/>0</span>
+{/* <div className='reaction1'> */}
 <span><CommentIcon className='re'/></span>
 <span><VolumeUpIcon className='re'/></span>
-<span><BookmarkBorderIcon className='re'/></span>
-    </div>
+<span><BookmarkBorderIcon className='re'/></span></div>
+    {/* </div> */}
     </div>
     </div>
   )

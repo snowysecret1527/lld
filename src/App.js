@@ -7,12 +7,13 @@ import RecommedUsers from "./components/RecommedUsers";
 function App() {
   return (
     <div className='Liveloud'>
-    <Navbar/>
+   <Navbar/>
+    
     <Sidebar/>
     <Twitees/>
     <RecommedUsers/>
-    
     </div>
+    
   );
 }
 
